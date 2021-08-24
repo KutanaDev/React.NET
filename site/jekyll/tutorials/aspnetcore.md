@@ -1165,5 +1165,5 @@ That's it! Now if you build and refresh your application, you should notice that
           <span><p>Hello ReactJS.NET World!</p></span>
         </div>
 
-	<!-- Rest of the contents ommitted for brevity -->
+	<!-- Rest of the contents omitted for brevity -->
 ```
